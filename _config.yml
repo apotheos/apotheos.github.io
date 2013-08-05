@@ -1,13 +1,13 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Programmerly
+description:      Blah
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://apotheos.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Mike Holler
   avatar:         bio-photo.jpg
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
