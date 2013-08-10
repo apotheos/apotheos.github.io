@@ -1,0 +1,2 @@
+#Comment out url when working locally to resolve base urls correctly
+url: http://localhost:4000
