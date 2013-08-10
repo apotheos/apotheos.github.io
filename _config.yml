@@ -8,7 +8,7 @@ url:              http://apotheos.github.io
 # Owner/author information
 owner:
   name:           Mike Holler
-  avatar:         bio-photo.jpg
+  avatar:         bio-photo.png
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        CodingMike
@@ -35,8 +35,6 @@ links:
     url: /about
   - title: Articles
     url: /articles
-  - title: Theme Setup
-    url: /theme-setup
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Chicago
