@@ -12,9 +12,9 @@ comments: true
 The problem below is taken from Chapter 3 of *[Natural Language Processing with Python](http://nltk.org/book)*. 
 
 > 43\. With the help of a multilingual corpus such as the Universal Declaration of Human Rights Corpus
-  (`nltk.corpus.udhr`), along with NLTK's frequency distribution and rank correlation functionality
-  (`nltk.FreqDist`, `nltk.spearman_correlation`), develop a system that guesses the language of a
-  previously unseen text. For simplicity, work with a single character encoding and just a few languages.
+> (`nltk.corpus.udhr`), along with NLTK's frequency distribution and rank correlation functionality
+> (`nltk.FreqDist`, `nltk.spearman_correlation`), develop a system that guesses the language of a
+> previously unseen text. For simplicity, work with a single character encoding and just a few languages.
 
 See [CSC499-NLP/ch_3/exercises/languages_guessing.py](https://github.com/apotheos/CSC499-NLP/blob/master/ch_3/exercises/language_guessing.py) for the solution.
 
